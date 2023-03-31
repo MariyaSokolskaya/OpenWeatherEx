@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String APIKEY = "ea69b3d4f0a4a724d2c03268919c83a1";
+    public static final String APIKEY = "";
     public static final String ADDRESS = "https://api.openweathermap.org/data/2.5/weather";
 
     EditText cityName;
